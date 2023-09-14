@@ -1,6 +1,7 @@
 # 👋 Hi there!
 I want to make software for everyone. I study computer science and software at Gachon University.
 
+#### I am a student in the Department of Software at Gachon University.
 
 ## What I'm interested nowadays
 ### Technologies & Frameworks
